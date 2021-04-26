@@ -4,6 +4,8 @@
 # as :
 
 يتم استخدام **as** لإجراء التحويل بين compatible reference types أو Nullable types ويقوم بإرجاع الكائن عندما يكون متوافقًا مع النوع المحدد ويعيد القيمة فارغة إذا لم يكن التحويل ممكنًا.
+</div>
+
 ```c#
 expression is type ? (type)expression : (type)null
 ```
@@ -45,4 +47,3 @@ else  {
 
 Console.WriteLine("Is is not a string");}}
 ```
-</div>
