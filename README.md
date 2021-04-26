@@ -1,7 +1,6 @@
 # Introduction About Some Concepts
 <div dir = "rtl">
-**c#**
-هنا تم شرح بعض الكلمات في لغة 
+هنا تم شرح بعض الكلمات في لغة سي شارب 
 الكلمات هي:
  
  - abstract
