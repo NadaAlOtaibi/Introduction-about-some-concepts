@@ -6,7 +6,7 @@
 
 ```c#
 abstract class Shape{
-();}public abstract  int  equation
+public abstract  int  equation();}
 ```
 <div dir = "rtl">
 
