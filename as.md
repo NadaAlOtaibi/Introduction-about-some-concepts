@@ -10,9 +10,7 @@
 expression is type ? (type)expression : (type)null
 ```
 ```c#
-static  void  Main()
-
-{
+static  void  Main(string[]args){
 
 // creating and initializing object array
 
@@ -39,9 +37,7 @@ Console.Write("{0}:", i);
 
 if  (str != null) {
 
-Console.WriteLine("'"  + str + "'");
-
-}
+Console.WriteLine("'"  + str + "'");}
 
 else  {
 
