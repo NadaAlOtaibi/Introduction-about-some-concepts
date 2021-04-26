@@ -1,3 +1,5 @@
+
+# abstract :
 <div dir = "rtl">
 الكلاس الذي يحتوي على كلمة  abstract في تعريفه يعتبر abstract class وسيتبع القوانين التالية:
 
