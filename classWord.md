@@ -1,6 +1,6 @@
 <div dir = "rtl">
 
-# الكلاس
+# class
 </div>
 
 <div dir = "rtl">
