@@ -12,7 +12,7 @@
 </div>
 
 ```c#
-delegate <نوع البيانات> <اسم delegate > <الباراميترات>
+delegate <نوع البيانات> <اسم> <delegate > <الباراميترات>
 
 public  delegate  void printString(string s);
 
