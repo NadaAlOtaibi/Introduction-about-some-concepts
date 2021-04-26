@@ -2,7 +2,7 @@
 <div dir = "rtl">
 
 
-# delegate :
+# :delegate 
 
 
 
