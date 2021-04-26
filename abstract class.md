@@ -4,9 +4,9 @@
 يحتوي الابستراكت كلاس على دوال ابستراكت  وهي دالة لاتحتوي على تعريف مثل:
 
 ```c#
-abstract class Shape
+                 abstract class Shape{
 
-{public abstract  int  equation();}
+                  public abstract  int  equation();}
 ```
 إذا احتوى الكلاس على دوال ابستراكت  فيجب تعريفه كـ ابستراكت كلاس ولايمكن عمل كائن منه.
 
