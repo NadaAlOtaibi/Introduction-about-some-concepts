@@ -7,7 +7,7 @@
 
 مثال:
 </div>
-
+```c#
 for (int i = 0; i < 10; i++)
 
 {
@@ -23,6 +23,7 @@ break;
 Console.WriteLine(i);
 
 }
+```
 <div dir = "rtl">
 
 هنا قمنا بالخروج من البرنامج عند وجود كلمة break
