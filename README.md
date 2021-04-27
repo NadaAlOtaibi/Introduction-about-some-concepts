@@ -8,6 +8,11 @@
  - base
  - goto
  - delegate
+ - break
+ - in
+ - out
+ - ref
+ - continue 
 
 </div>
 
