@@ -13,7 +13,7 @@
 </div>
 
 ```c#
-string numberAsString = "1640";
+string numberAsString = "12";
 
 if (Int32.TryParse(numberAsString, out int number))
 
@@ -23,9 +23,9 @@ else
 
 Console.WriteLine($"Unable to convert '{numberAsString}'");
 
-// The example displays the following output:
+//  output:
 
-//  Converted '1640' to 1640
+//  Converted '12' to 12
 ```
 <div dir = "rtl">
 وهنا يتضح من المثال أن y,c يشيرون إلى نفس الموقع بالذاكرة.
