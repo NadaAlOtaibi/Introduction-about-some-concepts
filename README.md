@@ -13,6 +13,11 @@
  - out
  - ref
  - continue 
+ - override
+ - public 
+ - private
+ - protected 
+ - virtual
 
 </div>
 
