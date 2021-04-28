@@ -13,5 +13,5 @@
 </div>
 
 ```c#
-Protected int number;
+protected int number;
 ```
