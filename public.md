@@ -12,7 +12,7 @@
 </div>
 
 ```c#
-Public class Nada{}
+public class Nada{}
 
 public double Name;
 ```
