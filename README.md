@@ -18,6 +18,10 @@
  - private
  - protected 
  - virtual
+ - Enum
+ - this
+ - object
+ - params
 
 </div>
 
